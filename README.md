@@ -2,9 +2,10 @@
 
 Smart Queuing System.
 
-This project is part of the Udacity's Intel Edge AI for IoT Developer Nanodegree Program. The aim of this project is to compare hardware performances using the Intel Dev Cloud for Intel Edge.
+The aim of this project is to compare hardware performances using the Intel Dev Cloud for Intel Edge.
 
 There are 5 different Jupyter Notebooks as follows;
+
     1) Step_Create_Python_Script
     2) Step_2__Create_Job_Submission_Script
     3) Step_3_Manufacturing_Scenario
